@@ -22,6 +22,7 @@
 - Frontend
   - HTML5, CSS3 and JavaScript
   - React JS
+    - [Forms Formik](https://github.com/MathPSantos/react-formik-example)
     - [Drag and Drop](https://github.com/MathPSantos/react-clone-pipefy)
 
 - Mobile

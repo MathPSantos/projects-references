@@ -15,16 +15,17 @@
 
 - Backend
   - Nodejs
-    - [Upload files](https://github.com/MathPSantos/nodejs-uploadfile)
+    - [Upload files](https://github.com/MathPSantos/example-nodejs-uploadfile)
   - C#
   - Python
 
 - Frontend
   - HTML5, CSS3 and JavaScript
   - React JS
-    - [Forms Formik](https://github.com/MathPSantos/react-formik-example)
-    - [Drag and Drop](https://github.com/MathPSantos/react-clone-pipefy)
+    - [Form with Formik](https://github.com/MathPSantos/example-react-formik)
+    - [Notification with Toastify](https://github.com/MathPSantos/example-react-toastify)
+    - [Drag and Drop](https://github.com/MathPSantos/example-react-dragndrop)
 
 - Mobile
   - React Native
-    - [Authorization Router](https://github.com/MathPSantos/r-auth)
+    - [Authorization Router](https://github.com/MathPSantos/example-reacts-auth)

@@ -16,11 +16,8 @@
 - Backend
   - Nodejs
     - [Upload files](https://github.com/MathPSantos/example-nodejs-uploadfile)
-  - C#
-  - Python
 
 - Frontend
-  - HTML5, CSS3 and JavaScript
   - React JS
     - [Form with Formik](https://github.com/MathPSantos/example-react-formik)
     - [Notification with Toastify](https://github.com/MathPSantos/example-react-toastify)
